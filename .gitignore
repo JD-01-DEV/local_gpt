@@ -1,0 +1,7 @@
+# Ignore everything
+/*
+!.gitignore
+
+# But not these files/folders...
+!/lib/
+!/pubspec.yaml
